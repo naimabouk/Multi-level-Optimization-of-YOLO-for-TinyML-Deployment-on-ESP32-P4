@@ -170,7 +170,7 @@ The implementation lives in Espressif's official **esp-dl** SDK:
 ```bibtex
 @inproceedings{boumedine2026simulation,
   title     = {From Simulation to Silicon: Fast and Exact YOLO26 Object Detection on Low-Cost Microcontrollers},
-  author    = {Boumedine, Billal and Belkacem, Amina and Boukhiar, Naima},
+
   booktitle = {Proceedings of the 3rd International Workshop on the Integration of Distributed
                Machine Learning and the Internet of Things (AIoT '26)},
   address   = {Tokyo, Japan},
